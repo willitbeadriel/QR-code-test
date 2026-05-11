@@ -41,9 +41,9 @@ body{
 
 .card-h2{
     width: 300px;
-    margin: 0px 75px;
-    height: px;
+    margin: 0px 50px;
     color: hsl(218, 44%, 22%);
+    text-align: center;
 }
 
 .card-p{
